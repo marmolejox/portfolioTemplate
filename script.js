@@ -1,0 +1,1 @@
+alert("Script ha sido cargado correctamente.")
